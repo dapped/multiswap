@@ -57,7 +57,7 @@ function main() {
         console.error('Max of 24 Uniswap UIs')
         n = 24
     }
-    addAd('img/chartex.jpg', 'CHART token launching on Uniswap this Friday!', '<p>Join the <a href="https://discord.gg/3pPur67">Discord</a> for details</p>')
+    //addAd('img/chartex.jpg', 'CHART token launching on Uniswap this Friday!', '<p>Join the <a href="https://discord.gg/3pPur67">Discord</a> for details</p>')
     addUI(n, a);
 }
 
